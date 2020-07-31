@@ -1,24 +1,9 @@
-# vant-demo
+# vant-demo 采用Vue+Vue-router+Vant
 
-## Project setup
-```
-npm install
-```
+### 和女朋友不知道吃什么？来试试这个吧
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 记录自己学习Vue的小demo
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 效果展示：
+![](https://raw.githubusercontent.com/cadben/images_store/master/img/20200731_153044.gif)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
